@@ -34,7 +34,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Skill 100
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
