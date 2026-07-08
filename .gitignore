@@ -1,13 +1,22 @@
-# Ignore the contents of the _site directory and other cache directories
+# Jekyll build output and cache directories
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local Bundler install output
+.bundle/
+vendor/
 
 # Ignore the directory for local files during development
 local/
 
-# Ignore the Gemfile that is generated
+# Ignore the lockfile generated during local builds
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
+
+# Ignore macOS Finder metadata
+.DS_Store
