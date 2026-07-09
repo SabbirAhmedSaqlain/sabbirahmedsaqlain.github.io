@@ -319,6 +319,81 @@
   color: #5f370e;
 }
 
+.article-list {
+  display: grid;
+  gap: 18px;
+  margin-top: 28px;
+}
+
+.article-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 24px;
+  background: var(--paper);
+}
+
+.article-card h2 {
+  margin: 0 0 10px;
+  border: 0;
+  padding: 0;
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.article-card p {
+  margin: 0 0 14px;
+}
+
+.article-link {
+  font-weight: 800;
+}
+
+.article-page {
+  max-width: 1040px;
+}
+
+.article-page h1 {
+  margin-top: 34px;
+  color: var(--ink);
+}
+
+.article-page h2 {
+  scroll-margin-top: 84px;
+}
+
+.article-page h3,
+.article-page h4 {
+  scroll-margin-top: 84px;
+}
+
+.article-page pre {
+  overflow-x: auto;
+  border-radius: 8px;
+  padding: 16px;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.article-page code {
+  font-size: 0.92em;
+}
+
+.article-page :not(pre) > code {
+  border-radius: 4px;
+  padding: 2px 5px;
+  background: #edf4f7;
+  color: var(--ink);
+}
+
+.article-pdf {
+  display: block;
+  width: 100%;
+  min-height: 78vh;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
 @media (max-width: 900px) {
   .profile-metrics,
   .profile-grid,
@@ -368,5 +443,13 @@
   .profile-cv table {
     display: block;
     overflow-x: auto;
+  }
+
+  .article-card {
+    padding: 18px;
+  }
+
+  .article-pdf {
+    min-height: 70vh;
   }
 }

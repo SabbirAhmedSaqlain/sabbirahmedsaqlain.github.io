@@ -266,6 +266,35 @@ redirect_from:
   <section class="profile-section">
     <div class="profile-wrap">
       <div class="profile-section__head">
+        <h2>Article</h2>
+        <p>
+          Long-form technical writing on RAG, embeddings, vector databases, LangChain, LangGraph,
+          evaluation, and production multi-agent AI systems.
+        </p>
+      </div>
+      <div class="profile-grid">
+        <article class="profile-card">
+          <span class="profile-label">RAG</span>
+          <h3><a href="/articles/embeddings-in-rag-complete-practical-guide/">Embeddings in RAG</a></h3>
+          <p>Practical guide to embeddings, semantic search, chunking, vector storage, retrieval quality, and production tuning.</p>
+        </article>
+        <article class="profile-card">
+          <span class="profile-label">Evaluation</span>
+          <h3><a href="/articles/rag-performance-evaluation-guide/">RAG Performance Evaluation</a></h3>
+          <p>Validation guide covering retrieval, generation, end-to-end quality, human review, monitoring, latency, and cost.</p>
+        </article>
+        <article class="profile-card">
+          <span class="profile-label">Systems</span>
+          <h3><a href="/articles/">View All Articles</a></h3>
+          <p>Open the full Article section for vector databases, LangChain, LangGraph, and production multi-agent RAG guides.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="profile-section profile-section--soft">
+    <div class="profile-wrap">
+      <div class="profile-section__head">
         <h2>Skills</h2>
         <p>
           A practical stack for shipping mobile, backend, AI, and security features from prototype

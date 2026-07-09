@@ -14,7 +14,10 @@ https://sabbirahmedsaqlain.github.io
 
 - `_pages/about.md` - homepage, hero, experience, skills, open-project section, SEO-friendly profile copy.
 - `_pages/projects.md` - detailed project portfolio, CV-listed iOS apps, banking work, GitHub projects, AI/RAG/security work.
+- `_pages/articles.md` - Article index page with descriptions and links to full articles.
+- `_pages/articles/` - full article pages for PDFs and rendered Markdown articles.
 - `_pages/cv.md` - full CV page generated from the PDF CV.
+- `files/articles/` - article source files and PDF files used by the Article section.
 - `files/Sabbir_Ahmed_Saqlain.pdf` - downloadable CV.
 - `images/profile.jpg` - main profile image and Open Graph image.
 - `assets/css/profile.css` - custom profile website styling.
@@ -57,6 +60,7 @@ The website includes:
 - Canonical URLs through the Jekyll SEO include.
 - Open Graph image using `images/profile.jpg`.
 - Search-friendly homepage copy for iOS, AI/ML, LLM, RAG, fintech, OCR, and mobile security keywords.
+- Search-friendly article pages for RAG, embeddings, vector databases, LangChain, LangGraph, and multi-agent systems.
 - JSON-LD structured data for `Person` and `WebSite`.
 - Clean navigation with only real pages.
 - Template demo pages and sample posts removed to avoid irrelevant indexed URLs.
