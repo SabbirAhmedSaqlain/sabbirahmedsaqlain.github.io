@@ -678,7 +678,7 @@ This is better answered by structured computation than semantic retrieval.
 
 Code RAG is different from document RAG.
 
-For code, good chunks are usually: Functions Classes Methods Modules API routes Configuration blocks Tests README sections Bad code chunking can break logic.
+For code, good chunks are usually: Functions Classes Methods Modules API routes Configuration blocks Tests documentation sections Bad code chunking can break logic.
 
 ### Example bad chunk
 

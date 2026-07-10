@@ -1,6 +1,6 @@
 # Production-Level Vector Database: A Very Large Beginner-Friendly Guide
 
-> A practical README-style article that explains vector databases from the ground up, then moves into production architecture, indexing, scaling, security, monitoring, and real-world system design.
+> A practical article that explains vector databases from the ground up, then moves into production architecture, indexing, scaling, security, monitoring, and real-world system design.
 
 ---
 
@@ -3143,7 +3143,7 @@ This section shows a simple conceptual implementation. It is not tied to one ven
 
 ```text
 vector-rag-system/
-  README.md
+  PROJECT_GUIDE.md
   app/
     main.py
     config.py
@@ -3570,5 +3570,5 @@ These references are useful for further reading and validating implementation de
 
 ## License
 
-This README-style article can be used as learning material, internal documentation, or a starting point for production vector database planning.
+This article can be used as learning material, internal documentation, or a starting point for production vector database planning.
 

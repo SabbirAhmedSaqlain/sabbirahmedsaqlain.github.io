@@ -1,14 +1,14 @@
-# LangChain and LangGraph: A Complete Beginner to Production README
+# LangChain and LangGraph: A Complete Beginner to Production Guide
 
 > A practical, readable, and production-oriented guide to understanding LangChain and LangGraph.
 >
-> This README explains what these tools are, why they matter, how they work together, and how to design real AI applications with them.
+> This guide explains what these tools are, why they matter, how they work together, and how to design real AI applications with them.
 
 ---
 
 ## Table of Contents
 
-1. [What This README Covers](#what-this-readme-covers)
+1. [What This Guide Covers](#what-this-guide-covers)
 2. [One-Minute Summary](#one-minute-summary)
 3. [The Problem LangChain and LangGraph Solve](#the-problem-langchain-and-langgraph-solve)
 4. [What Is LangChain?](#what-is-langchain)
@@ -46,9 +46,9 @@
 
 ---
 
-## What This README Covers
+## What This Guide Covers
 
-This README is written for developers, engineering managers, AI engineers, and students who want to understand how to build real applications with Large Language Models, LangChain, and LangGraph.
+This guide is written for developers, engineering managers, AI engineers, and students who want to understand how to build real applications with Large Language Models, LangChain, and LangGraph.
 
 It explains the topic in simple language first, then gradually moves into production-level design.
 
@@ -68,7 +68,7 @@ You will learn:
 - How to think about production deployment
 - How to avoid common mistakes
 
-This README focuses mainly on Python, because Python is the most common language for AI application development. The same concepts also exist in the JavaScript ecosystem.
+This guide focuses mainly on Python, because Python is the most common language for AI application development. The same concepts also exist in the JavaScript ecosystem.
 
 ---
 
@@ -785,7 +785,7 @@ A minimal project may look like this:
 ```text
 my-ai-app/
   .env
-  README.md
+  PROJECT_GUIDE.md
   requirements.txt
   app/
     main.py
@@ -1960,7 +1960,7 @@ A clean production project may look like this:
 
 ```text
 ai-agent-app/
-  README.md
+  PROJECT_GUIDE.md
   requirements.txt
   pyproject.toml
   .env.example

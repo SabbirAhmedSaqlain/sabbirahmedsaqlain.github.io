@@ -2,7 +2,7 @@
 
 A simple but deep guide for designing, building, deploying, monitoring, and scaling a production-level multiple-agent Retrieval-Augmented Generation system.
 
-This README is written for engineers, managers, students, and product teams who want to understand how a serious enterprise RAG system works from end to end.
+This guide is written for engineers, managers, students, and product teams who want to understand how a serious enterprise RAG system works from end to end.
 
 ---
 
@@ -2768,7 +2768,7 @@ Use managed APIs for speed of development. Use self-hosted models when privacy, 
 
 ```text
 multi-agent-rag/
-├── README.md
+├── PROJECT_GUIDE.md
 ├── docker-compose.yml
 ├── .env.example
 ├── apps/

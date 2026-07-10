@@ -36,6 +36,28 @@ author_profile: true
   </article>
 
   <article class="article-card">
+    <span class="profile-label">Interview Prep</span>
+    <h2><a href="/articles/rag-interview-questions-and-answers-complete-guide/">Retrieval-Augmented Generation Interview Questions and Answers</a></h2>
+    <p>
+      A beginner-to-advanced RAG interview handbook covering fundamentals, architecture, ingestion,
+      chunking, embeddings, vector databases, retrieval, reranking, evaluation, production, security,
+      debugging, system design, coding, and leadership questions.
+    </p>
+    <a class="article-link" href="/articles/rag-interview-questions-and-answers-complete-guide/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Accuracy Testing</span>
+    <h2><a href="/articles/comprehensive-rag-accuracy-testing-validation-guide/">Comprehensive Guide to Accuracy Testing, Validation, and Improvement in RAG</a></h2>
+    <p>
+      A practical validation guide for RAG accuracy covering offline and online evaluation,
+      golden datasets, retrieval validation, generation validation, hallucination detection,
+      citation checks, metrics, dashboards, and continuous improvement.
+    </p>
+    <a class="article-link" href="/articles/comprehensive-rag-accuracy-testing-validation-guide/">Read full article</a>
+  </article>
+
+  <article class="article-card">
     <span class="profile-label">Vector Search</span>
     <h2><a href="/articles/vector-database/">Production-Level Vector Database: A Very Large Beginner-Friendly Guide</a></h2>
     <p>
@@ -47,12 +69,22 @@ author_profile: true
 
   <article class="article-card">
     <span class="profile-label">LLM Orchestration</span>
-    <h2><a href="/articles/langchain-langgraph/">LangChain and LangGraph: A Complete Beginner to Production README</a></h2>
+    <h2><a href="/articles/langchain-langgraph/">LangChain and LangGraph: A Complete Beginner to Production Guide</a></h2>
     <p>
       A production-oriented guide to LangChain and LangGraph, including agents, tools,
       graph workflows, RAG, memory, checkpointing, human-in-the-loop systems, security, and deployment.
     </p>
     <a class="article-link" href="/articles/langchain-langgraph/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Coordinator Agents</span>
+    <h2><a href="/articles/langchain-langgraph-coordinator-agent-rag-guide/">LangChain, LangGraph, and Coordinator Agents in RAG</a></h2>
+    <p>
+      A large practical guide explaining how LangChain, LangGraph, and coordinator-agent patterns
+      differ, how they work together, and how each fits into production RAG architectures.
+    </p>
+    <a class="article-link" href="/articles/langchain-langgraph-coordinator-agent-rag-guide/">Read full article</a>
   </article>
 
   <article class="article-card">
