@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Article"
-description: "Technical articles by Sabbir Ahmed Saqlain on RAG, embeddings, vector databases, LangChain, LangGraph, and production multi-agent AI systems."
+description: "Technical articles by Sabbir Ahmed Saqlain on RAG, tokenization, text embeddings, vector retrieval, vector databases, LangChain, LangGraph, and production multi-agent AI systems."
 permalink: /articles/
 author_profile: true
 ---
@@ -9,8 +9,8 @@ author_profile: true
 <div class="profile-site profile-cv article-index" markdown="1">
 
 <p class="profile-note">
-  Practical long-form guides on retrieval-augmented generation, embeddings, evaluation,
-  vector databases, LangChain, LangGraph, and production multi-agent AI systems.
+  Practical long-form guides on retrieval-augmented generation, tokenization, embeddings,
+  query-time vector retrieval, evaluation, vector databases, LangChain, LangGraph, and production multi-agent AI systems.
   Click any article to read the full version.
 </p>
 
@@ -23,6 +23,16 @@ author_profile: true
       search, chunking, vector storage, similarity search, retrieval quality, and production tuning.
     </p>
     <a class="article-link" href="/articles/embeddings-in-rag-complete-practical-guide/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Tokenization &amp; Vector Retrieval</span>
+    <h2><a href="/articles/text-to-vector-embedding-and-query-retrieval/">How Text Becomes a Numerical Vector and Is Retrieved at Query Time</a></h2>
+    <p>
+      A detailed journey from raw text through subword tokenization, token IDs, transformer layers,
+      pooling, vector storage, approximate nearest-neighbor search, reranking, and retrieval of the original text.
+    </p>
+    <a class="article-link" href="/articles/text-to-vector-embedding-and-query-retrieval/">Read full article</a>
   </article>
 
   <article class="article-card">
