@@ -60,7 +60,7 @@ The website includes:
 - Canonical URLs through the Jekyll SEO include.
 - Open Graph image using `images/profile.jpg`.
 - Search-friendly homepage copy for iOS, AI/ML, LLM, RAG, fintech, OCR, and mobile security keywords.
-- Search-friendly article pages for RAG, tokenization, text-to-vector embedding and retrieval, vector databases, LangChain, LangGraph, coordinator agents, interview preparation, accuracy validation, and multi-agent systems.
+- Search-friendly article pages for RAG, tokenization, text-to-vector retrieval, mobile application security, physical-device Android and iOS testing, NID/eKYC security, vector databases, LangChain, LangGraph, interview preparation, and multi-agent systems.
 - JSON-LD structured data for `Person` and `WebSite`.
 - Clean navigation with only real pages.
 - Template demo pages and sample posts removed to avoid irrelevant indexed URLs.

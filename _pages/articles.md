@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Article"
-description: "Technical articles by Sabbir Ahmed Saqlain on RAG, tokenization, text embeddings, vector retrieval, vector databases, LangChain, LangGraph, and production multi-agent AI systems."
+description: "Technical articles by Sabbir Ahmed Saqlain on RAG, tokenization, vector retrieval, mobile application security, Android and iOS testing, NID/eKYC, LangChain, LangGraph, and multi-agent AI."
 permalink: /articles/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 
 <p class="profile-note">
   Practical long-form guides on retrieval-augmented generation, tokenization, embeddings,
-  query-time vector retrieval, evaluation, vector databases, LangChain, LangGraph, and production multi-agent AI systems.
+  vector retrieval, mobile application security, NID/eKYC, LangChain, LangGraph, and production multi-agent AI systems.
   Click any article to read the full version.
 </p>
 
@@ -43,6 +43,26 @@ author_profile: true
       end-to-end evaluation, human review, LLM judges, production monitoring, and failure analysis.
     </p>
     <a class="article-link" href="/articles/rag-performance-evaluation-guide/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Mobile Security</span>
+    <h2><a href="/articles/mobile-application-security-testing-android-ios/">Mobile Application Security Testing: A Complete Android and iOS Guide</a></h2>
+    <p>
+      A defensive assessment guide covering OWASP MASVS, network protection, API authorization,
+      sessions, OTP, secure storage, runtime tampering, NID spoofing, face liveness, and security reporting.
+    </p>
+    <a class="article-link" href="/articles/mobile-application-security-testing-android-ios/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Physical-Device Lab</span>
+    <h2><a href="/articles/physical-device-mobile-security-testing-lab/">Building a Physical-Device Mobile Security Testing Lab for Android and iOS</a></h2>
+    <p>
+      A practical Mac, Android, and iPhone lab workflow using staging builds, ADB, Xcode, Burp,
+      MobSF, and Frida for traffic, storage, API, NID upload, liveness, and runtime security testing.
+    </p>
+    <a class="article-link" href="/articles/physical-device-mobile-security-testing-lab/">Read full article</a>
   </article>
 
   <article class="article-card">
