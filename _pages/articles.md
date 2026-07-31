@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Article"
-description: "Technical articles by Sabbir Ahmed Saqlain on RAG, tokenization, vector retrieval, mobile application security, Android and iOS testing, NID/eKYC, LangChain, LangGraph, and multi-agent AI."
+description: "Technical articles by Sabbir Ahmed Saqlain on engineering management, team leadership, RAG, tokenization, vector retrieval, mobile security, Android, iOS, NID/eKYC, LangChain, and multi-agent AI."
 permalink: /articles/
 author_profile: true
 ---
@@ -10,7 +10,8 @@ author_profile: true
 
 <p class="profile-note">
   Practical long-form guides on retrieval-augmented generation, tokenization, embeddings,
-  vector retrieval, mobile application security, NID/eKYC, LangChain, LangGraph, and production multi-agent AI systems.
+  vector retrieval, engineering management, team leadership, mobile application security,
+  NID/eKYC, LangChain, LangGraph, and production multi-agent AI systems.
   Click any article to read the full version.
 </p>
 
@@ -63,6 +64,16 @@ author_profile: true
       MobSF, and Frida for traffic, storage, API, NID upload, liveness, and runtime security testing.
     </p>
     <a class="article-link" href="/articles/physical-device-mobile-security-testing-lab/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">Engineering Leadership</span>
+    <h2><a href="/articles/engineering-manager-role-small-vs-large-teams/">Engineering Manager Role: How to Lead Small and Large Engineering Teams</a></h2>
+    <p>
+      A practical guide to direct leadership in small teams and leadership through managers,
+      technical leads, organizational systems, portfolio planning, and delegation at larger scale.
+    </p>
+    <a class="article-link" href="/articles/engineering-manager-role-small-vs-large-teams/">Read full article</a>
   </article>
 
   <article class="article-card">
