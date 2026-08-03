@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Article"
-description: "Technical articles by Sabbir Ahmed Saqlain on engineering management, team leadership, RAG, tokenization, vector retrieval, mobile security, Android, iOS, NID/eKYC, LangChain, and multi-agent AI."
+description: "Technical articles by Sabbir Ahmed Saqlain on iOS development interviews, engineering management, RAG, tokenization, vector retrieval, mobile security, NID/eKYC, LangChain, and multi-agent AI."
 permalink: /articles/
 author_profile: true
 ---
@@ -10,8 +10,8 @@ author_profile: true
 
 <p class="profile-note">
   Practical long-form guides on retrieval-augmented generation, tokenization, embeddings,
-  vector retrieval, engineering management, team leadership, mobile application security,
-  NID/eKYC, LangChain, LangGraph, and production multi-agent AI systems.
+  vector retrieval, iOS development interviews, engineering management, team leadership,
+  mobile application security, NID/eKYC, LangChain, LangGraph, and production multi-agent AI systems.
   Click any article to read the full version.
 </p>
 
@@ -74,6 +74,16 @@ author_profile: true
       technical leads, organizational systems, portfolio planning, and delegation at larger scale.
     </p>
     <a class="article-link" href="/articles/engineering-manager-role-small-vs-large-teams/">Read full article</a>
+  </article>
+
+  <article class="article-card">
+    <span class="profile-label">iOS Interview Preparation</span>
+    <h2><a href="/articles/ios-developer-interview-questions-and-answers/">iOS Developer Interview Questions and Answers: A Complete Beginner-to-Senior Guide</a></h2>
+    <p>
+      106 practical questions and answers covering Swift, ARC, concurrency, UIKit, SwiftUI,
+      architecture, networking, persistence, security, testing, performance, and senior-level system design.
+    </p>
+    <a class="article-link" href="/articles/ios-developer-interview-questions-and-answers/">Read full article</a>
   </article>
 
   <article class="article-card">
